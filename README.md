@@ -1,0 +1,2 @@
+# Business Central EDI Generator
+
