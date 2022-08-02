@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Business_Central_EDI": {
+      "commandName": "Project",
+      "commandLineArgs": "810"
+    }
+  }
+}

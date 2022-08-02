@@ -1,0 +1,7 @@
+{
+    "telemetry.enableTelemetry": false,
+    "al.assemblyProbingPaths": [
+        "./.netpackages",
+        "C:/Program Files/Assemblies"
+    ]
+}
